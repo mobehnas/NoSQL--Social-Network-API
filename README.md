@@ -37,5 +37,16 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
     $ npm start
 ```
 5. Open Insomnia Core to test API routes
+6. 
+7. ### Link to Videos demontration: 
+
+8. https://drive.google.com/file/d/14QyfOhh3hUgo5E5IdPg8tYk8owqzMMIB/view
+
+   https://drive.google.com/file/d/1ove0mcXz4hOqRAOzA78cByQoQpEWhR3m/view
+
+   https://drive.google.com/file/d/1GoU81nDzD0nftcufaDEcIsf8a9bEpvIP/view
+
+   https://drive.google.com/file/d/10pfuhcS-RkBHWp6uDDWgRC6hHjp4h8h9/view
+                                   
 
 
